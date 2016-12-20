@@ -8,6 +8,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+/**
+ * 从github上导入工程 更改并添加到git 版本库中，推送到github上
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
